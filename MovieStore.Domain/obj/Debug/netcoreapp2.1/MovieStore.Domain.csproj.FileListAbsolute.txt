@@ -1,0 +1,8 @@
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Domain\bin\Debug\netcoreapp2.1\MovieStore.Domain.deps.json
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Domain\bin\Debug\netcoreapp2.1\MovieStore.Domain.dll
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Domain\bin\Debug\netcoreapp2.1\MovieStore.Domain.pdb
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Domain\obj\Debug\netcoreapp2.1\MovieStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Domain\obj\Debug\netcoreapp2.1\MovieStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Domain\obj\Debug\netcoreapp2.1\MovieStore.Domain.AssemblyInfo.cs
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Domain\obj\Debug\netcoreapp2.1\MovieStore.Domain.dll
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Domain\obj\Debug\netcoreapp2.1\MovieStore.Domain.pdb

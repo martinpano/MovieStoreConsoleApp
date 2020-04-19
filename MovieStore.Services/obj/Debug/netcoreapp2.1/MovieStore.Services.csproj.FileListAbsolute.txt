@@ -1,0 +1,12 @@
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\bin\Debug\netcoreapp2.1\MovieStore.Services.deps.json
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\bin\Debug\netcoreapp2.1\MovieStore.Services.dll
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\bin\Debug\netcoreapp2.1\MovieStore.Services.pdb
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\obj\Debug\netcoreapp2.1\MovieStore.Services.csprojAssemblyReference.cache
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\obj\Debug\netcoreapp2.1\MovieStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\obj\Debug\netcoreapp2.1\MovieStore.Services.AssemblyInfoInputs.cache
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\obj\Debug\netcoreapp2.1\MovieStore.Services.AssemblyInfo.cs
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\obj\Debug\netcoreapp2.1\MovieStore.Services.dll
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\obj\Debug\netcoreapp2.1\MovieStore.Services.pdb
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\bin\Debug\netcoreapp2.1\MovieStore.Domain.dll
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\bin\Debug\netcoreapp2.1\MovieStore.Domain.pdb
+C:\Users\Martin\Source\Repos\SEDC.MovieStoreApp\MovieStore.Services\obj\Debug\netcoreapp2.1\MovieStore.Services.csproj.CopyComplete
